@@ -1,28 +1,25 @@
-# This is a large heading
+# Daniel Gartner
 
-## This is a smaller heading
+## Esquire
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+**NO!** They're *all* gonna laugh at you!
+by Adam Sandler
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+- Amy
+- Beatrice
+- Helen
+
+1. Phoebe
+2. Ashley
+3. Fabiola
 
 Here is `some code` in the middle of a sentence.
 
 ```
-This is
-a block
-of code
+It was written. (In code.)
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Check [this](https://www.wikipedia.org/) out.
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
