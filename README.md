@@ -20,6 +20,6 @@ Here is `some code` in the middle of a sentence.
 It was written. (In code.)
 ```
 
-Check [this](https://www.wikipedia.org/) out.
+Check [this](https://www.tokyny.com/) out.
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
